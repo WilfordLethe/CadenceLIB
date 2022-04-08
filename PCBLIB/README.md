@@ -1,0 +1,404 @@
+# Component Package Library for Allegro
+- [ALPS660x600](https://tech.alpsalpine.com/prod/c/html/tact/surfacemount/skpm/skpmbhe010.html)
+    - s200
+- [AMP174973-2](https://www.te.com.cn/chn-zh/product-174973-2.html?iso=chn&iso=chn)
+    - s144h104
+    - c144h104
+    - s390h350
+- BTN4x3
+    - r200_80
+- [BTN6x6](http://spec_sheets.e-switch.com/specs/P010516.pdf)
+    - r210_140
+- [BZ-RA7_6](http://www.huawha.com/content/?93.html)
+    - s130h80
+    - c130h80
+- C1_5H0_3
+    - c150h30
+- C1_5H1
+    - c150h100
+- C0201
+    - r46_42
+- C0402
+    - r65_62
+- C0603
+    - r98_78
+- C0805
+    - r147_102
+- C1206
+    - r182_102
+- CAP-D4
+    - r250_160
+- CAP-D5
+    - r280_160
+- CAP-D6_3
+    - r320_160
+- CAP-D8x6_2
+    - r400_160
+- CAP-D8x10_2
+    - r400_200
+- CAP-D10
+    - r410_200
+- CAP-RA-D8
+    - s127_5h85
+    - c127_5h85
+- CircleKeyPad-D3
+    - circlekeypad-d3
+        - pastemask-CircleKeyPad-D3.dra
+        - pastemask-CircleKeyPad-D3.ssm
+        - soldermask-CircleKeyPad-D3.dra
+        - soldermask-CircleKeyPad-D3.ssm
+- CircleKeyPad-D6
+    - circlekeypad-d6
+        - pastemask-CircleKeyPad-D6.dra
+        - pastemask-CircleKeyPad-D6.ssm
+        - soldermask-CircleKeyPad-D6.dra
+        - soldermask-CircleKeyPad-D6.ssm
+- CON127-4_SMD
+    - s100
+    - c100
+- CON250-4
+    - s190h100
+    - c190h100
+- CON254-2
+    - s165h110
+    - c165h110
+- CON254-3
+    - s165h110
+    - c165h110
+- CON254-3x2
+    - s165h110
+    - c165h110
+- CON254-4
+    - s165h110
+    - c165h110
+- CON254-4x2
+    - s165h110
+    - c165h110
+- CON254-5
+    - s165h110
+    - c165h110
+- CON254-5_SMD
+    - s200s210
+    - c200s210
+- CON254-6
+    - s165h110
+    - c165h110
+- CON254-7
+    - s165h110
+    - c165h110
+- CON254-7x2
+    - s165h110
+    - c165h110
+- CON254-8
+    - s165h110
+    - c165h110
+- CON254-20
+    - s165h110
+    - c165h110
+- CON381-2
+    - s180h120
+    - c180h120
+- CON381-3
+    - s180h120
+    - c180h120
+- CON381-4
+    - s180h120
+    - c180h120
+- CON381-6
+    - s180h120
+    - c180h120
+- CON396-2
+    - S250H165
+    - c250H165
+- CON396-4
+    - S250H165
+    - c250H165 
+- CON762-2
+    - s240h157
+    - c240h157
+- CON762-3
+    - s240h157
+    - c240h157
+- CON762-4
+    - s240h157
+    - c240h157
+- CON762-5
+    - s240h157
+    - c240h157
+- CON762-6
+    - s240h157
+    - c240h157
+- CON1000-2
+    - s300h190
+    - c300h190
+- CON1000-3
+    - s300h190
+    - c300h190
+- [CON1100-2](https://www.degson.com.cn/content/details_552_615544.html?lang=cn)
+    - s400h250
+    - c400h250
+- [CON1100-3](https://www.degson.com.cn/content/details_552_615543.html?lang=cn)
+    - s400h250
+    - c400h250
+- [CR1220](https://www.meiyangdz.com/Products/dczbs12202p.html)
+    - r400_230
+    - r440_230
+    - c65h130
+- CY-RA10
+    - c138_1h85
+- D2PAK-6
+    - r305x101_6
+    - r1066_838
+- [DC012](https://atta.szlcsc.com/upload/public/pdf/source/20190827/C16214_DA59F99E888FED58D9833F5341D610B0.pdf)
+    - ob400x150_h_ob350x100
+    - ob350x150_h_ob300x100
+- [DIP16-254x762](http://www.dgkingtek.cn/pro_detail.asp?id=1289)
+    - s180h100
+    - c180h100
+- DIP-HC49
+    - c124_7h68
+- DISC7MM
+    - c130h80
+- DISC10MM
+    - c165h110
+- DPAK
+    - r210_100
+    - r585_490
+- DT-26
+    - ob90x70_h_c50
+    - r400_150
+- EE13
+    - s120h80
+    - c120h80
+- EE13-P6
+    - s120h80
+    - c120h80
+- FUSE8_4x4
+    - c180h100
+- FUSE0402
+    - r81_64
+- FUSE0603
+    - r100_70
+- HC49
+    - r550_150
+- HTSSOP16
+    - r147_5x45
+    - s300
+- HVSON8
+    - d85_35
+        - pastemask-d85_35.dra
+        - pastemask-d85_35.ssm
+        - soldermask-d85_35.dra
+        - soldermask-d85_35.ssm
+    - r245_165s245_165_p110_65
+- HVSON20
+    - r95_30
+    - r485_185
+- JMP-D3
+    - c500h300
+- L0603
+    - r70_60
+- L0805
+    - r125_60
+- L3225
+    - r195_140
+- L4018
+    - r370_120
+- LCC-2
+    - r300_120
+- LED0603
+    - r95_80
+- LED0805
+    - r140_90
+- LQFP32_7x7
+    - r147_5x60
+- LQFP44_10x10
+    - r147_5x60
+- LQFP48_7x7
+    - r147_5x30
+- LQFP64_10x10
+    - r147_5x30
+- LQFP64_12x12
+    - r147_5x45
+- LQFP80_12x12
+    - r147_5x30
+- LQFP80_14x14
+    - r147_5x45
+- LQFP100_14x14
+    - r147_5x30
+- LQFP144_20x20
+    - r147_5x30
+- MARK1MM
+    - c100
+- MARK3MM
+    - c300
+- MCH-M3
+    - mc500h300s600
+- PC4-4_5x3_2
+    - r135_90
+- PLCC4-3_2x2_8
+    - r150_110
+- PTC0603
+    - r101_94
+- QFN16_3x3
+    - d80_30
+        - pastemask-d80_30.dra
+        - pastemask-d80_30.ssm
+        - soldermask-d80_30.dra
+        - soldermask-d80_30.ssm
+    - s175s175p100
+- QFN20_4x4
+    - d80_30
+        - pastemask-d80_30.dra
+        - pastemask-d80_30.ssm
+        - soldermask-d80_30.dra
+        - soldermask-d80_30.ssm
+    - s260s260p164
+- QFN32_5x5
+    - d85_30
+        - pastemask-d85_30.dra
+        - pastemask-d85_30.ssm
+        - soldermask-d85_30.dra
+        - soldermask-d85_30.ssm
+    - s370s370p185
+- QFN32_7x7
+    - r105_35
+    - s460s460p300
+- R0201
+    - r62_5x40
+- R0402
+    - r80_60
+- R0603
+    - r100_90
+- R0805
+    - r140_100
+- R1206
+    - r180_125
+- R1210
+    - r275_125
+- R2512
+    - r345_135
+- RV-RA7_5
+    - c165h100
+- RV-RA10
+    - s140h90
+    - c140h90
+- SMA
+    - r235_155
+- SMB
+    - r225_215
+- SMC
+    - r310_220
+- SMD2
+    - r300_120
+- SMD4
+    - r210_155
+- SMD6
+    - SMD6-Pad1
+        - pastemask-SMD6_PAD1.dra
+        - pastemask-smd6_pad1.ssm
+        - soldermask-SMD6_PAD1.dra
+        - soldermask-smd6_pad1.ssm
+    - SMD6-Pad2
+        - pastemask-SMD6_PAD2.dra
+        - pastemask-smd6_pad2.ssm
+        - soldermask-SMD6_PAD2.dra
+        - soldermask-smd6_pad2.ssm
+    - r200_100
+    - r200_70
+- SMD127-7x2
+    - r279_74
+- SOD123
+    - r120_75
+- SOD323
+    - r107_5x50
+- SOD523
+    - r81_8x50
+- SOIC4
+    - r180_85
+- SOIC8
+    - r150_65
+- SOIC14
+    - r150_65
+- SOIC16
+    - r152_5x65
+- SOIC20
+    - r185_65
+
+- SOT23
+    - r100_60
+- SOT23-5
+    - r120_60
+- SOT23-6
+    - r115_60
+- SOT89
+    - r140_57
+    - mid_sot89
+        - pastemask-mid_sot89.dra
+        - pastemask-mid_sot89.ssm
+        - soldermask-mid_sot89.dra
+        - soldermask-mid_sot89.ssm
+- SOT223
+    - r200_95
+    - r320_200
+- SOT363
+    - r100_45
+- SOT416
+    - r80_40
+- SSOP24
+    - r180_45
+- [T9vv1k15-12S](https://www.te.com.cn/chn-zh/product-2027395-5.html?iso=chn&iso=chn)
+    - ob410x250_h_ob333x178
+    - ob480x300_h_ob395x195
+    - c250h109
+- [TL2201-8_5x8_5](https://www.e-switch.com/product-catalog/pushbutton/product-lines/tl2201-and-tl4201-series-sub-miniature-pushbuttons)
+    - c130h80
+- TP1MM
+     - c100
+- TP3MM
+     - c300
+- TSSOP5
+    - r120_40
+- TSSOP8
+    - r150_45
+- TSSOP14
+    - r147_5x45
+- TSSOP16
+    - r147_5x45
+- TSSOP20
+    - r147_5x45
+- TSSOP24
+    - r147_5x45
+- TSSOP28
+    - r147_5x45
+- USB-MiniB
+    - mch95
+    - r225_50
+    - r250_200
+- USB-TypeA_F
+    - r280_100
+    - c345h230
+- USB-TypeB
+    - s150_9_h97
+    - c150_9_h97
+    - c352_5_h235
+- XTAL2016_4
+    - r85_75
+- XTAL2520_4
+    - r120_100
+- XTAL3225_2
+    - r270_150
+- XTAL3225_4
+    - r140_120
+- XTAL5032_2
+    - r240_200
+- XTAL5032_4
+    - r160_130
+- [YS-12SV3-66_7x30_5](https://datasheet.lcsc.com/lcsc/2011161038_ESHION-YS-U12S12H-190649_C910325.pdf)
+    - ob350X250_h_ob250X160
+- [YS-12SV3-66_7x30_5_C](https://datasheet.lcsc.com/lcsc/2011161038_ESHION-YS-U12S12H-190649_C910325.pdf)
+    - c300h200s350
+- [ZMCT123](https://atta.szlcsc.com/upload/public/pdf/source/20171221/C155201_15138395935231195959.pdf)
+    - c200h140
+- [ZMPT107](https://atta.szlcsc.com/upload/public/pdf/source/20170912/C125191_1505207878742963562.pdf)
+    - c150h100

@@ -1,0 +1,2 @@
+rm *.jrl*
+rm *.log*
