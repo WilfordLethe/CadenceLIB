@@ -37,6 +37,7 @@
 
 ## DISCRETE
 - [AMS1117](https://atta.szlcsc.com/upload/public/pdf/source/20211011/50CC665C22E3A66C08379A4A74BDA25C.pdf)
+- [BD4269FJ-C](https://www.rohm.com.cn/products/power-management/linear-regulators/ldo-regulators-with-voltage-detector/bd4269fj-c-product#productDetail)
 - BUZZER
 - CAP_NP
 - CAP_POL
